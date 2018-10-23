@@ -1,0 +1,18 @@
+body {
+	background: Orange;
+}
+
+h1 { color: Green;
+text-align: center;
+}
+div.upload {text-align: right;
+	
+}
+p.bird {text-align: left;
+
+	
+}
+body
+{background-image: url("BirdsBack.jpg");
+background-repeat:repeat-x;
+}
